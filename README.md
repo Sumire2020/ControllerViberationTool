@@ -2,7 +2,7 @@
 # 手柄震动控制工具
 This is a Xbox format game controller rotator test tool.
 
-Anyone who has ever heard about or used electric toys(vibrating egg/AV rod), must have in a way worried about their concealment.
+Anyone who has ever heard about or used electric toys(AV rod,etc), must have in a way worried about their concealment.
 
 The direct effect of this project is to turn game controller into electric toy and raise the concealment of pleasure to the highest level.
 
@@ -12,7 +12,7 @@ exe file is in the Standalone folder.
 
 Don't ask me how I came up with it ε=ε=ε=┏(゜ロ゜;)┛
 
-有了解或使用过电动玩具(跳蛋/AV棒)的朋友，多少会对其隐蔽性有所顾虑。
+有了解或使用过电动玩具(AV棒,等)的朋友，多少会对其隐蔽性有所顾虑。
 
 这个工程的直接作用是将手柄变为电动玩具，将快乐的隐蔽性提到最高。
 
